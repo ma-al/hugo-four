@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://ma-al.github.io/hugo-four/"
+baseurl = "https://ma-al.github.io/hugo-four/"
 languageCode = "en-us"
 title = "Hugrid - The Fourth"
 theme = "hugrid"
